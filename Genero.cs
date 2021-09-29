@@ -6,13 +6,13 @@ namespace HospiEnCasa.App.Dominio
     {
         Femenino,
         Masculino,
-        Heterosexualidad
-        Homosexualidad 
-        Bisexualidad
-        Transexualidad
-        Asexualidad
-        Pansexualidad
-        Antrosexualidad
+        Heterosexualidad,
+        Homosexualidad, 
+        Bisexualidad,
+        Transexualidad,
+        Asexualidad,
+        Pansexualidad,
+        Antrosexualidad,
         Demisexualidad
     }
 }
