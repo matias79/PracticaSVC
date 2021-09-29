@@ -11,3 +11,5 @@ namespace HospiEnCasa.App.Dominio
         public Genero Genero{get;set;}
     }
 }
+
+//safjkdskñfjñasjfñlaskjfalñskjfñasljfñaskljfñasfjasñ
