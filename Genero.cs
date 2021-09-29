@@ -5,7 +5,15 @@ namespace HospiEnCasa.App.Dominio
     public enum Genero
     {
         Femenino,
-        Masculino
+        Masculino,
+        Heterosexualidad
+        Homosexualidad 
+        Bisexualidad
+        Transexualidad
+        Asexualidad
+        Pansexualidad
+        Antrosexualidad
+        Demisexualidad
     }
 }
 
